@@ -1,5 +1,7 @@
 # Build OpenWrt on Mac Apple Silicon (ARM64)
 
+![GitHub](https://img.shields.io/badge/license-MIT-blue.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/hhai93/Build-Openwrt-With-Mac-Apple-Silicon)
+
 ## 1. Create Ubuntu VM with OrbStack
 + Install [OrbStack](https://orbstack.dev/download/stable/latest/arm64) or using Homebrew:
 ```bash

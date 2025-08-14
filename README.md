@@ -38,7 +38,7 @@ libc6-dev-i386-amd64-cross libc6-dev-i386-cross libc6-dev-i386-x32-cross
 ```bash
 go env GOROOT
 ```
-Example: `/usr/lib/go-1.22`  
+Example: `/usr/lib/go-1.22`
 **Use this path later**
 
 ---
@@ -72,3 +72,5 @@ Output firmware is in:
 ```
 bin/targets/<target>/<subtarget>/
 ```
+
+*The process will take a long time, so make sure your Mac does not go to sleep by opening a new Terminal window and running `caffeinate` command

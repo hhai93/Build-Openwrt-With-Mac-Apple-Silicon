@@ -73,4 +73,4 @@ Output firmware is in:
 bin/targets/<target>/<subtarget>/
 ```
 
-*The process will take a long time, so make sure your Mac does not go to sleep by opening a new Terminal window and running `caffeinate` command
+*The process will take a long time, so make sure your Mac does not go to sleep by opening a new Terminal window and running `caffeinate` command*

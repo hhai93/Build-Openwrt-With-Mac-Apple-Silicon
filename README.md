@@ -66,6 +66,7 @@ make menuconfig
 
 ## 5. Build
 ```bash
+make defconfig
 make download -j$(nproc) && make -j$(nproc) V=s
 ```
 Output firmware is in:
